@@ -92,11 +92,10 @@
     color: white;
 }
 .caja_numeros_derecha{
-    
     width: 650px;
     height: auto;
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     justify-content: center;
 }
 .caja_numeros_derecha div{
