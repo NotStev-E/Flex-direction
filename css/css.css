@@ -45,7 +45,7 @@
     width: 1300px;
     height: auto;
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     margin: auto;
     justify-content: center;
 }
